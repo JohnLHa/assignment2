@@ -1,0 +1,39 @@
+body {
+	background-color: pink;
+}
+
+input[type=text]{
+    padding: 8px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 2px solid purple;
+	border-radius: 4px;
+	background-color: yellow;
+	position: right;
+	margin-left: 43.5%;
+}
+
+button[type=submit]{
+	border: 2px solid purple;
+	border-radius: 4px;
+	background-color: yellow;
+}
+
+h1{
+	color: purple;
+	font-family: Arial;
+	font-size: 300%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+p{
+	color: purple;
+	font-family: Arial;
+	font-size: 150%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
